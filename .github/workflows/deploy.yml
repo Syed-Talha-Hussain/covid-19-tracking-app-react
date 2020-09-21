@@ -1,5 +1,4 @@
-#
-name: Covid-19 Tracking App on React
+name: Bootcamp React Covid-19 Tracking App
  
 on:
   push:
